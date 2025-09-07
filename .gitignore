@@ -1,0 +1,4 @@
+unzipped/imdb_db/im.db
+zippedData/im.db.zip
+*.zip
+*.db
