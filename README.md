@@ -1,5 +1,9 @@
 #  Strategic Film Investment Analysis
 
+<p align="center">
+  <img src="moviestudio.jpg" alt="Movie Studio Banner" width="800">
+</p>
+
 # Overview
 This project conducts a comprehensive data analysis to guide our new movie studio's entry into the competitive film industry. By leveraging financial and audience data, the analysis identifies the most profitable genres, optimal budget ranges, and key success factors to minimize risk and maximize return on investment (ROI).
 
@@ -45,17 +49,30 @@ Budget vs. ROI Analysis: Categorized films into budget ranges to identify the mo
 Statistical Modeling: Built a linear regression model to quantify the impact of budget, genre, and rating on ROI, followed by rigorous diagnosis of model assumptions.
 
 # Key Findings & Strategic Recommendations
+
+<p align="center">
+  <img src="top_genres_by_roi.png" alt="Bar chart showing Horror, Mystery, and Thriller genres with the highest Return on Investment" width="80%">
+</p>
+
 1. Genre Strategy: Focus on Horror, Mystery, and Thriller
 Finding: These genres dominate in ROI efficiency. Horror films yielded an average ROI of over 1,050%, significantly higher than the median.
 
 Recommendation: Prioritize Horror, Mystery, and Thriller films. They represent the optimal balance of moderate production costs and exceptional financial returns.
 
 2. Budget Strategy: Target the $10-30 Million Range
+
+<p align="center">
+  <img src="budget_vs_roi_analysis.png" alt="Two-panel chart: Left shows ROI distribution across budget categories, Right shows scatter plot with downward trend line proving higher budgets yield lower ROI" width="90%">
+</p>
+
 Finding: A strong inverse relationship exists between budget and ROI. Films in the $10-30M budget category showed the highest median ROI (~185%) and a high success rate (62% of films achieved >100% ROI).
 
 Recommendation: Structure productions within the $10-30 million budget range. This maximizes potential returns while allowing for a diversified portfolio to manage risk, unlike riskier blockbuster investments.
 
 3. Quality Strategy: Aim for "Good" Ratings (6.0-7.0)
+<p align="center">
+  <img src="rating_roi_analysis.png" alt="Two-panel chart: Left shows median ROI by rating category, Right shows scatter plot of rating vs ROI with weak correlation" width="90%">
+</p>
 Finding: While higher-rated films (8.0+) have the highest median ROI, the correlation between rating and financial success is weak. Many films with "Good" ratings (6.0-7.0) are highly profitable.
 
 Recommendation: Target a "Good" rating (6.0-7.0 on IMDb). Focus on commercial viability and audience entertainment within the chosen genres rather than overspending to chase critical acclaim.
