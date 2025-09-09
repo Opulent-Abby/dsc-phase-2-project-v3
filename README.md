@@ -78,9 +78,10 @@ Finding: While higher-rated films (8.0+) have the highest median ROI, the correl
 Recommendation: Target a "Good" rating (6.0-7.0 on IMDb). Focus on commercial viability and audience entertainment within the chosen genres rather than overspending to chase critical acclaim.
 
 # Conclusion
-The synthesized strategy for a new movie studio is:
+The best strategy for a new movie studio is:
 
 Produce Horror, Mystery, and Thriller films with budgets of $10-30 million, aiming for solid audience appeal (6.0-7.0 rating).
 
 This data-driven approach provides a clear, actionable framework for launching a film studio designed to maximize financial efficiency and manage risk effectively.
+
 
